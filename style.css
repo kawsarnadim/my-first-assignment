@@ -33,3 +33,26 @@ h1{
     padding: 10px 40px;
     border-radius: 5%;
 }
+.text-center{
+    text-align: center;
+}
+.mission img{
+    width: 40%;
+    
+}
+.mission{
+    padding: 5%;
+        gap: 2em;
+}
+.second-session1{
+    background-color: rgba(224, 57, 141, 0.123);
+    border-radius: 5%;
+}
+.second-session2{
+    background-color: rgba(76, 0, 130, 0.082);
+    border-radius: 5%;
+}
+.second-session3{
+    background-color: rgba(25, 25, 112, 0.055);
+    border-radius: 5%;
+}
