@@ -42,11 +42,12 @@ h1{
 }
 .mission{
     padding: 5%;
-        gap: 2em;
+        gap: 1em;
 }
 .second-session1{
     background-color: rgba(224, 57, 141, 0.123);
     border-radius: 5%;
+    
 }
 .second-session2{
     background-color: rgba(76, 0, 130, 0.082);
