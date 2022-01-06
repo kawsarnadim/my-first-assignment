@@ -95,6 +95,8 @@ h2{
 .foter{
     background-color: black;
     color: darkgray;
+    padding: 2% 3%;
+    margin: auto;
 }
 .font{
     font-family: 'Lobster', cursive;
