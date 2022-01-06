@@ -9,16 +9,16 @@ h2{
     font-size: 40px;
 }
 .orange-color{
-    color: darkorange;
+    color: rgb(98, 0, 255);
 }
 .border-line{
      border-left: 5px  solid;
-     border-color: rgb(255, 115, 0);
+     border-color: rgb(4, 0, 255);
      border-radius: 10px;
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -29,8 +29,7 @@ h2{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
-    background-color: orange;
+    background-image: linear-gradient(rgb(25, 0, 255), rgb(71, 197, 255));
     color: snow;
     font-weight: 700;
     padding: 10px 40px;
@@ -48,6 +47,7 @@ h2{
         gap: 1em;
         background-image: url(https://superdevresources.com/wp-content/uploads/2018/05/6-free-watercolor-textures.jpg);
         background-repeat: no-repeat;
+        background-position: center;
      
 }
 .second-session1{
@@ -82,5 +82,13 @@ h2{
     background-image: url(images/shapes/shape-9.png);
     background-repeat: no-repeat;
     background-position: left;
-    
+}
+.fitness-part{
+    padding: 2% 5%;
+    margin: auto;
+}
+.fitness1{
+    background-image: url(images/shapes/shape-7.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
